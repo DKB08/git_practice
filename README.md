@@ -12,7 +12,7 @@ I plan on creating other repositories for the following:
 - Javascript Scripts
 - Projects
 
-## Curent Goal
+## Current Goal
 
 I plan on making a contribution on GitHub at leaset once a day for a year, no matter how small.
 
